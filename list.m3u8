@@ -6,4 +6,5 @@ http://185.21.217.55:63590/miunyt/c24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9
 http://dyna.livenettv.sx:49310/hera/cp24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyMCA4OjQ4OjIxIFBNJmhhc2hfdmFsdWU9SzM1RVk4TWkrOUdjVjBJZmtLenZZdz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-name="SONY" tvg-id="" group-title="FAV" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM 24B
-https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist.m3u8
+http://45.58.139.242:9630/toto/sonytvuk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyMCA5OjA1OjM4IFBNJmhhc2hfdmFsdWU9b29JTTBUcFJ3NUVSNHpEcEx5NndTZz09JnZhbGlkbWludXRlcz0y
+
