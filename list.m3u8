@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CP24" tvg-id="" group-title="CP24" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM 24B
+#EXTINF:-1 tvg-name="CP24" tvg-id="" group-title="FAV" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM 24B
 https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist.m3u8
-#EXTINF:-1 tvg-name="CP24A" tvg-id="" group-title="CP24" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM 24B
+
+#EXTINF:-1 tvg-name="CP24A" tvg-id="" group-title="FAV" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM 24B
+https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SONY" tvg-id="" group-title="FAV" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM 24B
 https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist.m3u8
